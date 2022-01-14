@@ -328,6 +328,7 @@ h1.product__detail_title {
 }
 .contact__info p {
     display: inline-block;
+    line-height: 1.6;
 }
 .contact__info p img{
     display:inline;
